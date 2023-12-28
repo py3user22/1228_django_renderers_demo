@@ -39,6 +39,7 @@ Note how the serialized data is passed as context to the HTML template file name
 you need to put this HTML file inside the templates directory in your Django app,
 so the path of this file is: LittleLemon/LittleLemonAPI/templates/menu-item.html
 
+
 Step 3
 The third step is to add the following templating code to this HTML file. This code block accepts the template data and displays them in a HTML table. 
 
